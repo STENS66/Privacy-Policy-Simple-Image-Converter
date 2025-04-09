@@ -1,7 +1,7 @@
 # Privacy-Policy-Simple-Image-Converter
 Déclaration de confidentialité pour les différentes versions de l'application "Simple Image Converter".
 
-**Version 1.0 - Dernière mise à jour : 19/02/2025**
+**Version 1.1 - Dernière mise à jour : 04/03/2025**
 
 ## **Collecte de données**
 
